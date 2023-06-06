@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/codegym_module2.iml" filepath="$PROJECT_DIR$/.idea/codegym_module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/section1/section1.iml" filepath="$PROJECT_DIR$/section1/section1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section2/section2.iml" filepath="$PROJECT_DIR$/section2/section2.iml" />
     </modules>
   </component>
 </project>
