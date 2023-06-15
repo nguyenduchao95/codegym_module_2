@@ -1,10 +1,12 @@
+package b1;
+
 public class FizzBuzz {
     public static String fizzBuzz(int number){
         boolean isFizz = number % 3 == 0;
         boolean isBuzz = number % 5 == 0;
 
         if(isFizz && isBuzz)
-            return "FizzBuzz";
+            return "b1.FizzBuzz";
 
         if(isFizz)
             return "Fizz";
